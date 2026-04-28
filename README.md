@@ -16,15 +16,11 @@ Especialista em Back-End focada em construir o motor de aplicações seguras, es
 ## Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express" />
-  <img src="https://img.shields.io/badge/CSharp-000?style=for-the-badge&logo=csharp" />
-  <img src="https://img.shields.io/badge/.NET-000?style=for-the-badge&logo=dotnet" />
-  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql" />
-  <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,cs,dotnet,html,css,react,mysql,postgres,git,docker&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/API%20REST-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
 ## Estatísticas de Desenvolvimento

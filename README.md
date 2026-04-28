@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20,29&text=Vivian%20Maria&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Software%20de%20Developer&descSize=18&descAlignY=60&textBg=false"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20,29&text=Vivian%20Maria&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Software%20Developer&descSize=18&descAlignY=60&textBg=false"/>
 </p>
 
 ## Sobre Mim
 Especialista em Back-End focada em construir o motor de aplicações seguras, estáveis e escaláveis. Tenho domínio na criação de APIs RESTful estruturadas utilizando Node.js e C# (.NET), além de modelagem eficiente de bancos de dados relacionais e não-relacionais. Meu trabalho é guiado pelas boas práticas de Clean Code e por um versionamento rigoroso para garantir a melhor entrega a cada deploy.
+
 - 🌱 Atualmente aprofundando conhecimentos em **Arquitetura de Software e Cloud (Azure)**.
 - 💬 Me pergunte sobre **Node.js, Express, C# e APIs REST**.
 
@@ -15,19 +16,19 @@ Especialista em Back-End focada em construir o motor de aplicações seguras, es
 ## Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" title="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" title="Node.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="48" height="48" style="margin: 4px; filter: brightness(0) invert(1);" title="Express.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48" style="margin: 4px;" title="C#" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="48" height="48" style="margin: 4px;" title=".NET Core" />
-  <img src="https://img.icons8.com/color/48/000000/api-settings.png" alt="API REST" width="48" height="48" style="margin: 4px;" title="API REST" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" title="MySQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" title="PostgreSQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" title="HTML5" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" title="CSS3" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" title="React" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" title="Git" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" title="Docker" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" title="JavaScript" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" title="Node.js" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="48" height="48" style="filter: invert(1);" title="Express.js" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48" title="C#" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="48" height="48" title=".NET Core" />&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/api-settings.png" alt="API REST" width="48" height="48" title="API REST" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" title="MySQL" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" title="PostgreSQL" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" title="HTML5" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" title="CSS3" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" title="React" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" title="Git" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" title="Docker" />
 </p>
 
 ## Estatísticas de Desenvolvimento

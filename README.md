@@ -16,19 +16,15 @@ Especialista em Back-End focada em construir o motor de aplicações seguras, es
 ## Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" title="JavaScript" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" title="Node.js" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="48" height="48" style="filter: invert(1);" title="Express.js" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48" title="C#" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="48" height="48" title=".NET Core" />&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/api-settings.png" alt="API REST" width="48" height="48" title="API REST" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" title="MySQL" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" title="PostgreSQL" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" title="HTML5" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" title="CSS3" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" title="React" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" title="Git" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" title="Docker" />
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express" />
+  <img src="https://img.shields.io/badge/CSharp-000?style=for-the-badge&logo=csharp" />
+  <img src="https://img.shields.io/badge/.NET-000?style=for-the-badge&logo=dotnet" />
+  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker" />
 </p>
 
 ## Estatísticas de Desenvolvimento

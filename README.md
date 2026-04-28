@@ -40,10 +40,15 @@ Especialista em Back-End focada em construir o motor de aplicações seguras, es
 
 ## Contato
 <p align="center">
-  <a href="https://www.linkedin.com/in/vivianmariag" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 10px;"/></a> 
-  <a href="https://wa.me/5588992238197" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 10px;"/></a>
-  <a href="mailto:vivianmariadev@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Email" width="40" height="40" style="margin: 0 10px;"/></a>
-  <a href="https://x.com/vivianmariag" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40" style="margin: 0 10px;"/></a>
+  <a href="https://www.linkedin.com/in/vivianmariag">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://wa.me/5588992238197">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="mailto:vivianmariadev@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
 
 <p align="center">
